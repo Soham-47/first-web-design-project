@@ -1,0 +1,169 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-family:"Outfit", sans-serif;
+    margin: 0; 
+    padding: 0; 
+}
+
+.zero {
+    background-color: white;
+    width: 700px;
+    min-height: 600px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    border-radius: 2%;
+    padding: 20px; 
+    box-sizing: border-box; 
+}
+
+img {
+    display: block;
+    width: 100%; 
+    max-width: 700px;
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 3%;
+    position: static;
+}
+
+
+.one {
+    width: 100%;
+    padding-left: 10px;
+    margin-top: 10px;
+    line-height: 1.5em;
+}
+
+#h-one {
+    font-family: "Young Serif",serif;
+    
+    color:black;
+    letter-spacing: 1.2px;
+    font-size: 36px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.two {
+    background-color: rgb(245, 240, 244);
+    width: 100%; 
+    box-sizing: border-box; 
+    padding: 20px; 
+    margin-top: 30px;
+    border-radius: 2%;
+}
+
+
+.two ul {
+    padding-left: 38px;
+    margin: 0;
+}
+
+.l-one {
+    padding-left:20px;
+    padding-bottom: 10px;;
+}
+.l-one::marker{
+    color:brown;
+}
+
+#h-two {
+
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+    color: brown;
+}
+
+.three {
+    width: 100%;
+    padding-left: 10px;
+    margin-top: 30px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.three ul {
+    padding-left: 30px;
+}
+
+.l-two {
+    padding-left: 20px;
+    padding-bottom:10px;
+}
+.l-two::marker{
+    color:brown;
+}
+
+.h-three {
+    font-weight: bold;
+    color: brown;
+    font-family: "Young Serif",serif;
+}
+
+.four {
+    width: 100%;
+    padding-left: 20px;
+    margin-top: 30px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.four ol {
+    padding-left: 20px;
+}
+
+.l-three {
+    padding: 20px;
+    padding-bottom: 10px;
+    line-height: 1.5em;
+}
+.l-three::marker{
+    color:brown;
+    font-weight: bold;
+}
+
+.h-four {
+    color: brown;
+    font-family: "Young Serif",serif;
+}
+
+.five {
+    
+    width: 100%;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    margin-top: 30px;
+}
+
+.five h2 {
+    color: brown;
+    font-family: "Young Serif",serif;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.t {
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.d {
+    color: brown;
+    font-weight: bold;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 10px;
+}
